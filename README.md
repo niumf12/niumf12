@@ -1,2 +1,2 @@
 # Anh Tran
-**Computer Science Student | Competitive Programmer | AI Enthusiast**
+**Computer Science Student | Competitive Programmer**
